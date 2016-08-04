@@ -3,7 +3,7 @@ iCDN
 
 ## contributors & collaboration
 **join and talk to us:**
-* https://gitter.im/Platform-Cooperativism/platform-cooperativism.github.io
+* https://www.facebook.com/messages/conversation-1073439029415061
 
 **help us do stuff:**
 * https://github.com/Workation/workation.github.io/issues
